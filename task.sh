@@ -3,6 +3,6 @@ uptime
 cal
 date
 df -h
-touch myfile
-mkdir testjenkins
-touch dhamma
+rm myfile
+rmdir testjenkins
+rm dhamma
